@@ -1,9 +1,6 @@
 # AthleteDB_CPSC408
-Athlete Database Final
-Kyle Wynne
-Thomas Gooding
-Luc Rieffel
-Peter Senko
+# Athlete Database Final Project
+# By: Kyle Wynne, Thomas Gooding, Luc Rieffel, Peter Senko
 
 # instructions
 run FrontEnd.py
